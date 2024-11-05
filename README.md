@@ -76,4 +76,4 @@ Though **EthicalMatch** starts as a dating app, our vision expands to every serv
 
 ## Contact
 Have questions? Feel free to reach out via GitHub issues or join our community on [Discord](https://discord.gg/P7qfVuqMXz).
-*This project is very young*. We need [someone](#Marketing%20&%20Community%20Management) to build our discord community out. In the meantime, just drop a message in introductions, and we'll get you plugged in!
+*This project is very young*. We need someone to build our discord community out. In the meantime, just drop a message in introductions, and we'll get you plugged in!

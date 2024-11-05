@@ -28,13 +28,13 @@ F --> D[Very Specific Information]
 D --> F
 ```
 ### Don't be a perfectionist!
-Nothing is ever complete the first time around, and this is a collaborative project! Don't be afraid to add links to pages that don't exist yet, or simply say "This needs some more thinking". That opens up a clear avenue for the community to get involved, have a conversation about what's uncertain, and come to a conclusion *together*.
+Nothing is ever complete the first time around, and this is a collaborative project! Don't be afraid to add links to pages that don't exist yet, or simply say "This needs some more thinking". That opens up a clear avenue for the community to get involved, have a conversation about what's uncertain, and come to a conclusion *together!*
 
-> [!warning]
-> Don't forget to mark these unfinished sections with \#todo so they're easy to find and flesh out!
+> [!Warning]
+> Don't forget to mark these unfinished sections with \#todo otherwise it could be a long time before they're updated, leaving new viewers confused or empty-handed
 
 > [!Tip]
-> GitHub doesn't support wikilinks, which makes this syntax particularly useful for marking "wishful" page links. To create a wishful-link, simply surround the link text with \[\[Brackets like this!]]. Inside [[Obsidian Setup|Obsidian]] This also makes creating new pages as simple as clicking :)
+> GitHub doesn't support wikilinks, which makes this syntax particularly useful for marking "wishful" page links. To create a wishful-link, simply format the link text like this: \[\[File-Name|Display Text]]. Inside [[Obsidian Setup|Obsidian]] This also makes creating new pages as simple as clicking :)
 
 ## Visuals & Graphs
 #todo Introduce and pitch Mermaid graphs as a preferable alternative to linked .pngs
