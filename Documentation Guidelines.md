@@ -1,5 +1,5 @@
 Back to: [Guides](Guides.md)
-
+# Documentation Guidelines
 ## Overview
 Good documentation is the backbone of any successful project, and with a non-profit open-source project like [EthicalMatch](ATLAS/EthicalMatch%20Docs/README.md), it's the only thing keeping all of our lovely contributors on the same page. As such, we take it *very* seriously.
 
@@ -27,7 +27,7 @@ F --> P
 F --> D[Very Specific Information]
 D --> F
 ```
-### Don't be a perfectionist!
+### Don't Be a Perfectionist!
 Nothing is ever complete the first time around, and this is a collaborative project! Don't be afraid to add links to pages that don't exist yet, or simply say "This needs some more thinking". That opens up a clear avenue for the community to get involved, have a conversation about what's uncertain, and come to a conclusion *together!*
 
 > [!Warning]
@@ -54,4 +54,4 @@ Nothing is ever complete the first time around, and this is a collaborative proj
 - Use hyperlinks as a means of expanding on a concept, *even if the file doesn't exist yet*
 	- This is easily done in [[Obsidian Setup|Obsidian]] by typing "\[\[", and then the name of the file
 - Use visuals to break up walls of text, and to make concepts easier to digest
-	- Use [mermaid](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) code blocks (\`\`\`mermaid ... \`\`\`) for charts where applicable, and images as a last resort
+	- Use [mermaid](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) code blocks (\`\`\`mermaid … \`\`\`) for charts where applicable, and images as a last resort

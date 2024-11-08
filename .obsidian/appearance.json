@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Everforest",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "FullWidthText",
+    "red-uncreated-graph-nodes",
+    "highlight-selected-window"
+  ],
+  "nativeMenus": false
+}
