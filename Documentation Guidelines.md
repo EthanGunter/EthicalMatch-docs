@@ -17,7 +17,7 @@ F2--🔗-->F2I[What I'm looking for]
 F1--🔗-->F1I[Stuff I don't care about]
 ```
 
-Every document will have *child* documents that it links out to. To make sure your document is accessible, put a hyperlink in a *meaningful* location so future contributors can find it when they need it, and make full use of the new information!
+Every document will have *child* documents that it links out to. To make sure your document is accessible, put a hyperlink in a *meaningful* location so future contributors can find it when they need it.
 
 Once you've got a link to your doc, add a link at the top *pointing back*, forming a two-way relationship for easy navigation.
 ```mermaid
@@ -41,11 +41,15 @@ Nothing is ever complete the first time around, and this is a collaborative proj
 #todo Link to useful syntaxes, and encourage using existing documentation as inspiration for formatting your own
 
 ## Style
+##### Speech
+- Write in the present tense. "The server uses X", not "The server will use X". 
+	*Even if it's not yet true, it will be one day, and accidentally leaving in future-tense language will cause confusion*
+##### Syntax
 #todo 
 - Add a new line after each paragraph
 
 > [!Tip]
-> If you are using our [[Obsidian Setup]], this styling should be automatically handled, so you don't have to think about it.
+> If you are using our [[Obsidian Setup]], linting will take care of most of the nitpicky things
 
 # TL;DR:
 - Use the [[documentation template]] for a quick start (and to adhere to best practices)
