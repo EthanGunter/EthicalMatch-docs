@@ -140,7 +140,7 @@
       "enabled": true,
       "number-style": "lazy",
       "list-end-style": ".",
-      "preserve-start": true
+      "preserve-start": false
     },
     "proper-ellipsis": {
       "enabled": true
