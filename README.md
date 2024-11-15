@@ -6,10 +6,10 @@ In recent years, online dating has become the primary way people meet new romant
 
 ### The Problem with Profit-Driven Dating Platforms
 Most dating platforms present a façade of helping you meet your perfect match, but thrive on predatory tactics like paywalls, subscription models, and algorithmic manipulation to keep you ***paying for hope***.
-1. **High-Quality Matches Behind Paywalls**: Users often encounter pay-to-message, pay-to-boost, or pay-to-see features, creating financial barriers to connection. High-quality matches are frequently hidden behind these tactics.
-1. **Incentive to Keep You Searching**: Dating platforms are incentivized to **prolong your search** for a meaningful relationship. After all, if you find someone, you'll cancel your subscription. The business model favors keeping you hooked rather than pairing you with someone compatible.    
-1. **Data Monetization**: Many platforms mine user data, not only for "better" matches but also for **advertising and data sales**, eroding user privacy for financial gain.    
-1. **Psychological Manipulation**: Features like limited swipes, superficial profiles, and curated experiences **exploit human psychology**, turning dating into a game-like experience that rarely delivers real connections.    
+- **High-Quality Matches Behind Paywalls**: Users often encounter pay-to-message, pay-to-boost, or pay-to-see features, creating financial barriers to connection. High-quality matches are frequently hidden behind these tactics.
+- **Incentive to Keep You Searching**: Dating platforms are incentivized to **prolong your search** for a meaningful relationship. After all, if you find someone, you'll cancel your subscription. The business model favors keeping you hooked rather than pairing you with someone compatible.    
+- **Data Monetization**: Many platforms mine user data, not only for "better" matches but also for **advertising and data sales**, eroding user privacy for financial gain.    
+- **Psychological Manipulation**: Features like limited swipes, superficial profiles, and curated experiences **exploit human psychology**, turning dating into a game-like experience that rarely delivers real connections.    
 
 ## A Not-for-Profit Solution: EthicalMatch
 **EthicalMatch** is an open-source, donation-based, not-for-profit dating platform. Our goal is simple: **to help people find meaningful relationships without financial exploitation**. There are no hidden fees, no endless subscriptions, and no data monetization. All contributions go directly to maintaining the platform, not into corporate pockets.
@@ -27,25 +27,28 @@ EthicalMatch isn’t just another dating app; it’s a movement to bring integri
 Below are guides on how to participate in the success of this project. Regardless of how much you think you can contribute, there's a place for you to help with EthicalMatch.
 
 ## Development
-#### [Front-End Development](Front-End%20Development.md)
-If you have experience with web technologies, or building iOS/Android apps, your skills will help shape the face of EthicalMatch through our app, providing people with a humane online dating experience.
-#### [Back-End Development](Back-End%20Development.md)
+- [Front-End Development](Front-End%20Development.md)  
+If you have experience with web technologies, or building iOS/Android apps, your skills will help shape the face of EthicalMatch through our app, providing people with a humane online dating experience.  
+- [Back-End Development](Back-End%20Development.md)  
 If you have experience writing web APIs, interacting with databases, or managing server-side logic, your skillset will help build the backbone of our matching service, bringing people together for good rather than money.
-#### [DevOps & Security](DevOps%20&%20Security)
+-  [DevOps & Security](DevOps%20&%20Security)  
 … #todo
-### [Management and Operations](Management%20&%20Operations.md)
-If you've got experience in product management and project coordination, we need a few people to keep things running smoothly and ensure the project is developed efficiently.
-#### [Matchmaking](Matchmaking.md)
-If you have experience with social psychology, or any related field that gives you insight into the qualities of a person that make them *successful* partners for another, we *need* your help designing effective, no-nonsense algorithms. We're trying to bring people together, after all!
-## Business
-#### [Legal](Legal.md)
-If you're a lawyer, law student, or legal expert, especially with experience in intellectual property, nonprofit organizations, or internet law, your help is crucial in ensuring **EthicalMatch** survives and thrives in the face of inevitable corporate attacks.
-#### [Community Management](Community%20Management.md)
+- [Matchmaking Algorithm Design](Matchmaking.md)  
+If you have experience with social psychology, or any related field that gives you insight into the qualities of a person that make them *successful* partners for another, we need your help designing effective, no-nonsense algorithms. We're trying to bring people together, after all!
+
+## Community
+- [Community Management](Community%20Management.md)  
 If you have experience building and managing servers on Discord or communities on forums like Reddit, we need your help to build a resilient and collaborative environment to ensure someone is always here to carry the torch.
-#### [Marketing and Branding](Marketing%20and%20Branding.md)
+- [Marketing and Branding](Marketing%20and%20Branding.md)  
 If you have experience with marketing, social media, or content creation, we need your help to get our mission in front of the people that need to hear it, and drive the paradigm shift to bring the internet back into the hands of the people.
-#### [Fundraising and Financial Management](Fundraising%20and%20Financial%20Management.md)
-If you have any experience raising money for non-profits, attracting donors, or managing financial matters within a non-profit organization, 
+
+## Business
+- [Legal](Legal.md)  
+If you're a lawyer, law student, or legal expert, especially with experience in intellectual property, nonprofit organizations, or internet law, your help is crucial in ensuring **EthicalMatch** survives and thrives in the face of inevitable corporate attacks.
+- [Fundraising and Financial Management](Fundraising%20and%20Financial%20Management.md)  
+If you have any experience raising money for non-profits, attracting donors, or managing financial matters within a non-profit organization,
+-  [Management and Operations](Management%20&%20Operations.md)  
+If you've got experience in product management and project coordination, we need a few people to keep things running smoothly and ensure the project keeps its steam.
 
 ## Other Ways to Get Involved
 Even if you don't have experience or the time to contribute in the arenas mentioned above, there are still plenty of ways to participate. For example; doing research, participating in design conversations, providing feedback on new features, and assisting in testing, just to name a few. Your unique perspective can help us improve EthicalMatch, regardless of your background.
@@ -59,6 +62,6 @@ We're building this platform for you! If you have ideas or feedback, hop in to o
 We're a ways from having testable beta builds, but if you'd like, you can hop on our [[mailing list]] to get notified when we start.
 
 # Contact
-Still have questions? Feel free to reach out to the team through our community [Discord](https://discord.gg/P7qfVuqMXz).
+Still have questions? Feel free to reach out to the team through our community [Discord](https://discord.gg/P7qfVuqMXz)!
 > [!Note]
-> *This project is very young*. We still need someone to build our discord community out. In the meantime, just drop a message in the @questions channel, and someone will help you out!
+> *This project is very young*. We still need someone to build our discord community out. In the meantime, just drop a message in the \#questions channel, and someone will help you out!
