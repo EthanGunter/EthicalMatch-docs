@@ -757,13 +757,13 @@ body {
     --shadow-l: none;
 
     --inline-code-background: #6e768166;
-    --h-color-theme: var(--color-green);
-    --h1-color-theme: var(--color-green);
-    --h2-color-theme: var(--color-green);
-    --h3-color-theme: var(--color-green);
-    --h4-color-theme: var(--color-green);
-    --h5-color-theme: var(--color-green);
-    --h6-color-theme: var(--color-green);
+    --h-color-theme:  var(--text-normal);
+    --h1-color-theme: var(--text-normal);
+    --h2-color-theme: var(--text-normal);
+    --h3-color-theme: var(--text-normal);
+    --h4-color-theme: var(--text-normal);
+    --h5-color-theme: var(--text-normal);
+    --h6-color-theme: var(--text-normal);
     --background-modifier-hover-alpha: 0.12;
     --color-btn-primary-bg: #238636;
     --color-btn-primary-hover-bg: #2ea043;

@@ -1,7 +1,7 @@
 Back to: [Guides](Guides.md)
 # Documentation Guidelines
 ## Overview
-Good documentation is the backbone of any successful project, and with a non-profit open-source project like [EthicalMatch](ATLAS/EthicalMatch%20Docs/README.md), it's the only thing keeping all of our lovely contributors on the same page. As such, we take it *very* seriously.
+Good documentation is the backbone of any successful endeavor, and with a non-profit open-source project like [EthicalMatch](ATLAS/EthicalMatch%20Docs/README.md), it's the only thing keeping all of our lovely contributors on the same page. As such, we take it *very* seriously.
 
 Once you're familiar with the [[process]], you can create a copy of the [[documentation template]] and start getting your ideas out for everyone to follow along with. Here are things we're looking for when accepting new documentation:
 
@@ -34,7 +34,7 @@ Nothing is ever complete the first time around, and this is a collaborative proj
 > Don't forget to mark these unfinished sections with \#todo otherwise it could be a long time before they're updated, leaving new viewers confused or empty-handed
 
 > [!Tip]
-> GitHub doesn't support wikilinks, which makes this syntax particularly useful for marking "wishful" page links. To create a wishful-link, simply format the link text like this: \[\[File-Name|Display Text]]. Inside [[Obsidian Setup|Obsidian]] This also makes creating new pages as simple as clicking :)
+> GitHub doesn't support wikilinks, which makes this syntax particularly useful for marking "wishful" page links for others to expand on later. To create a wikilink, simply format the link text like this: \[\[File-Name|Optional Display Text]]. In [[Obsidian Setup|Obsidian]], this makes creating that "wishful" link as easy as clicking on it. :)
 
 ## Visuals & Graphs
 #todo Introduce and pitch Mermaid graphs as a preferable alternative to linked .pngs
@@ -55,7 +55,9 @@ Nothing is ever complete the first time around, and this is a collaborative proj
 - Use the [[documentation template]] for a quick start (and to adhere to best practices)
 	- Add a backlink to the parent document (if any)
 	- Wrap up with a TL;DR: section for busy-bees and speed readers
-- Use hyperlinks as a means of expanding on a concept, *even if the file doesn't exist yet*
-	- This is easily done in [[Obsidian Setup|Obsidian]] by typing "\[\[", and then the name of the file
+- Use hyperlinks as a means of expanding on a concept, or wikilinks[^1] if you're not ready to make that file yet
 - Use visuals to break up walls of text, and to make concepts easier to digest
 	- Use [mermaid](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) code blocks (\`\`\`mermaid … \`\`\`) for charts where applicable, and images as a last resort
+( #todo create a documentation template )
+
+[^1]: Wikilinks are written like \[\[My File Name]]. In [[Obsidian Setup|Obsidian]], this makes creating that "wishful" link as easy as clicking on it.
