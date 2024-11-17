@@ -1,9 +1,9 @@
 # EthicalMatch Documentation Contribution Guide
 *This document is incomplete. Check back later, or hop into the [community discord](https://discord.gg/P7qfVuqMXz) to participate in our initial discussions*
 
-Welcome to the EthicalMatch documentation repository! This document outlines how to contribute to both the technical documentation and the general resources that help the project run smoothly. Whether you’re a programmer or not, your contributions are essential to keeping EthicalMatch an open, inclusive, and well-documented project.
+This document outlines how to contribute to both the technical documentation and the general resources that help the project run smoothly. Whether you’re a programmer or not, your contributions are essential to keeping EthicalMatch a focused, honest, and well-documented project.
 
-*move to beginning of tech documentation* #todo 
+( #todo *move to beginning of tech documentation* )
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -15,21 +15,24 @@ Welcome to the EthicalMatch documentation repository! This document outlines how
 EthicalMatch is committed to a documentation-first workflow that keeps information **ahead of code**. This approach enables non-programmers to participate meaningfully in the design process and gives developers a clear, pre-defined structure to work from.
 
 Our repository is structured to support both technical and non-technical documentation:
-- **Technical Documentation**: Clear descriptions of how features function, guides/examples on how to use them, and status tracking for the implementation of features in the product itself.
+- **Technical Documentation**: Clear descriptions of how features function, guides & examples on how to use them, and status tracking for the implementation of features in the product itself.
 - **Non-Code Documentation**: Onboarding materials, guides for various roles, resources for involvement, and other documents that support the community and project operations.
 
 ## General Contribution Guidelines
-#### Using #todo for Partial Contributions
-If you’re contributing to a section but can’t complete it, leave a #todo comment where necessary, with a brief note on why it’s incomplete (e.g., "I’m unsure of the exact method here").
-Incomplete sections and #todo notes encourage others to build on what you’ve started, helping keep ideas flowing even if they’re not fully formed.
+#### Use (#todo) for Partial Contributions
+If you’re contributing to a section but can’t complete it, leave a (#todo) comment where necessary, with a brief note on why it’s incomplete.
+Incomplete sections and (#todo) notes encourage others to build on what you’ve started, helping keep ideas flowing even if they’re not fully formed.
+
+> [!Example]
+> "This is where we'll do a thing! ( #todo I don't know the exact method we should use here )"
 ## Non-Code Contributions
 Non-programmer's provide a vital perspective to EthicalMatch. Your work can shape how the project runs, help onboard new members, and keep processes smooth and clear. Here’s how you can contribute:
 
+1. **Reviewing and Enhancing**: Offer feedback on existing documentation, propose edits for clarity, and suggest resources that may be helpful for the team.
 1. **Onboarding and Resources**: Review and add to onboarding guides for new roles, community guidelines, and participation resources.
 1. **Process Improvements**: Help document effective workflows, communication strategies, or other practices to improve project management.
-1. **Reviewing and Enhancing**: Offer feedback on existing documentation, propose edits for clarity, and suggest resources that may be helpful for the team.
 
-To contribute to these areas, please open a **Documentation Change Issue** and describe what you’re adding or improving. #todo this is inaccurate
+To contribute to these areas, please open a **Documentation Change Issue** and describe what you’re adding or improving. ( #todo this is inaccurate )
 
 ## Technical Documentation Contributions
 If you’re contributing to the technical documentation for a code-based feature, please follow these guidelines:
