@@ -1,10 +1,10 @@
 # How to Get Involved with Management and Operations
-#todo Since EthicalMatch is a non-profit open-source project, we're more interested in setting up systems that allow people to participate at their own pace, while still maintaining an effective forward. Your role on the management and operations team is to devise and setup systems that enable this line of thinking, without active person-to-person management. It's a new way of thinking, but our structure needs to
+#todo Since EthicalMatch is a non-profit open-source project, we're more interested in setting up systems that allow people to participate at their own pace, while still maintaining an effective forward momentum. Your role on the management and operations team is to devise and setup systems that enable this line of thinking, without active person-to-person management. It's a new way of thinking, but our structure needs to
 - Provide a clear set of things to be done, in a prioritized manner
-- Provide an easy avenue for new members to get into the groove of pickup up and completing work, with as little friction as possible
+- Provide an easy avenue for new members to get into the groove of picking up and completing work, with as little friction as possible
 - Anticipate and accommodate large fluctuations in participating team members
 
-- **Project Managers**: Help coordinate development, community engagement, and marketing efforts to keep the project on track.
+This isn't to eliminate the inter-personal aspects of building something together, rather an acknowledgment of the transient nature of open-source projects. Things happen, people come, and people go. We don't want the project to grind to a halt because we lost a few people whose habits and knowledge we became reliant on.
 
 ## Project Management Tool Options
 #todo

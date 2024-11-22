@@ -1,11 +1,12 @@
+Back to [Home](README.md)
 # Welcome to the Team!
 We can't start a movement alone! To make this vision a reality, we need passionate people like you to push boundaries, defend our cause, and spread the word.  
 
 ## Enhance the Docs
-This repository is where we plan *everything* that happens with EthicalMatch, and we welcome contributions with open arms. Check out the [CONTRIBUTING](CONTRIBUTING.md) guidelines to find out how to get started!
+This repository is where we plan *everything* that happens with EthicalMatch, and contributions are welcomed with open arms. Below are guides for getting involved in specific areas
 
 ## Developers
-- ### [Front-End Development](Front-End%20Development.md) - HTML/JS/CSS *or* iOS/Android app development
+- ### [Front-End Development](Front-End%20Development.md) - HTML/CSS/JS *or* iOS/Android app development
 - ### [Back-End Development](Back-End%20Development.md) - Writing web APIs, interacting with databases, or managing server-side logic
 - ### [DevOps & Security](DevOps%20&%20Security) - … #todo
 
@@ -15,7 +16,7 @@ This repository is where we plan *everything* that happens with EthicalMatch, an
 
 ## The Business Savvy
 - ### [Legal](Legal.md) - Protect EthicalMatch from threatened competitors, and keep the organization up-to-date with legal mandates
-- ### [Management and Operations](Management%20&%20Operations.md) - Design resilient processes to keep the Ethical Commons Project vision at full steam!
+- ### [Management and Operations](Management%20&%20Operations.md) - Design resilient processes to keep the Ethical Commons Project at full steam!
 - ### [Fundraising and Financial Management](Fundraising%20and%20Financial%20Management.md) - Help raise money for the non-profit, attract donors, or manage finances  
 
 ## Other Ways to Get Involved
