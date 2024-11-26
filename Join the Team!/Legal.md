@@ -1,3 +1,5 @@
+back to [Join the team!](Join%20the%20Team!/README.md)
+
 # How to Get Involved with Legal Help
 As we challenge the status quo in the online dating world, We anticipate **legal challenges**, especially from corporations like Match Group, Inc. as they seek to protect their investments from a new competitor. To safeguard **EthicalMatch**, we need legal experts who can **anticipate, defend against, and proactively address** the following:
 - **Intellectual Property**: Protect our open-source project from infringement claims or attempts to block the use of our technology.

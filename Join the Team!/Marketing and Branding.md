@@ -1,3 +1,5 @@
+back to [Join the team!](Join%20the%20Team!/README.md)
+
 # How to Get Involved with Marketing and Outreach
 #todo This platform can only succeed if people know about it. We need individuals with **marketing, social media, and community-building** skills to get the word out and maintain an engaged, informed user base.
 Our current need is attracting developers and team members. Later we will get into getting publicity for the app itself.

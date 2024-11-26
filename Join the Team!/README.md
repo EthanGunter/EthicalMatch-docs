@@ -1,9 +1,13 @@
 Back to [Home](README.md)
+
 # Welcome to the Team!
 We can't start a movement alone! To make this vision a reality, we need passionate people like you to push boundaries, defend our cause, and spread the word.  
 
 ## Enhance the Docs
 This repository is where we plan *everything* that happens with EthicalMatch, and contributions are welcomed with open arms. Below are guides for getting involved in specific areas
+
+> [!Tip]
+> You don't need any programming experience to help out. Simply [creating an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) helps us know what needs to be worked on!
 
 ## Developers
 - ### [Front-End Development](Front-End%20Development.md) - HTML/CSS/JS *or* iOS/Android app development
