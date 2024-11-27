@@ -50,7 +50,7 @@ The PR will be accepted once X% of collaborators vote in favor of its completion
 ### Development Status Tracking
 Each section must have a status label that indicates the current state of progress. This makes it clear what work needs to be done at a glance. Format it like so:  
 ```
-## Feature Header    ![](https://progress-bar.xyz/35%)
+## Feature Header    ![](https://progress-bar.xyz/35)
 ```
 - Not Started: ![](https://progress-bar.xyz/0)
 - Completed: ![](https://progress-bar.xyz/100)
