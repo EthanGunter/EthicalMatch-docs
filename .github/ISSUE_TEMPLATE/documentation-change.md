@@ -2,7 +2,7 @@
 name: Documentation Change
 about: Suggest a tweak to make the documentation more accessible
 title: "[DOCS]"
-labels: enhancement
+labels: discussion, enhancement
 assignees: ''
 
 ---
