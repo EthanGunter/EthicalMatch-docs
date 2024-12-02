@@ -1,6 +1,3 @@
-# EthicalMatch Documentation
-This text-only repository is the one-stop-shop for all things EthicalMatch. Whether it be documentation on how the code works, documents detailing business practices, or guides for getting onboarded as a new member; if it's important to EthicalMatch, it's in here.
-
 # What is EthicalMatch?
 **EthicalMatch** is an experimental open-source dating platform that takes advantage of it's not-for-profit status to foster meaningful relationships without financial exploitation. Free from profit-driven requirements, **EthicalMatch** can steer clear of predatory monetization practices and focus instead on **privacy**, **transparency**, and ***ethical* matchmaking**.
 
