@@ -13,7 +13,7 @@ This isn’t just about dating—it’s about reclaiming the digital space for t
 - **Open-Source & Transparent**: Fully open-source decision making and source code. We. Hide. Nothing.
 
 # Want to Get Involved?
-Regardless of your skillset, there's a place for you to help! Check out our [getting involved](Join%20the%20Team!/README.md) document for various ways you can contribute to the success of EthicalMatch.
+Regardless of your skillset, there's a place for you to help! Check out our [team](Join%20the%20Team!/README.md) page for various ways you can contribute to the success of EthicalMatch.
 
 > [!Note]
 > *This project is very young*. You'll likely run into pages that aren't finished, or don't even exist yet. This is a perfect opportunity to start contributing! Follow [[this]] guide to get started.
