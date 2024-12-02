@@ -3,7 +3,7 @@ This document lays out the patterns you should use and the expectations you will
 ## Overview
 Good documentation is the backbone of any successful endeavor, and with a non-profit open-source project like EthicalMatch, it's the only thing keeping all of our lovely contributors on the same page. As such, we take it *very* seriously.
 
-Once you're familiar with the [[process]], you can create a copy of the [[documentation template]] and start getting your ideas out for everyone to follow along with. Here are things we're looking for when accepting new documentation:
+Once you're familiar with the [contribution process](CONTRIBUTING.md), you can create a copy of the [[documentation template]] and start getting your ideas out for everyone to follow along with. Here are things we're looking for when accepting new documentation:
 
 ## Hyperlinks Everywhere!
 Rather than relying on a perfectly crafted and impossible to manage folder structure, this repository makes excessive use of hyperlinks to group related documents together.
@@ -17,16 +17,6 @@ F2--🔗-->F2I[What I'm looking for]
 F1--🔗-->F1I[Stuff I don't care about]
 ```
 
-Every document will have *child* documents that it links out to. To make sure your document is accessible, put a hyperlink in a *meaningful* location so future contributors can find it when they need it.
-
-Once you've got a link to your doc, add a link at the top *pointing back*, forming a two-way relationship for easy navigation.
-```mermaid
-graph LR
-P[Project Vision] --> F[Cool Feature Idea]
-F --> P
-F --> D[Very Specific Information]
-D --> F
-```
 ### Don't Be a Perfectionist!
 Nothing is ever complete the first time around, and this is a collaborative project! Don't be afraid to add links to pages that don't exist yet, or simply leave a \#todo note. That opens up a clear avenue for the community to get involved, have a conversation about what's uncertain, and come to a conclusion *together!*
 

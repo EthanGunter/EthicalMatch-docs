@@ -11,15 +11,14 @@ This isn’t just about dating—it’s about reclaiming the digital space for t
 
 ### The EthicalMatch Solution:
 - **Free for Everyone**: Your money will *never* affect your matches. Period.
+- **Matchmaking with Integrity**: Our goal is quality relationships, not time-on-screen.
 - **Privacy First**: Each piece of your data is *opt-in*, and clearly explained.
 - **Open-Source & Transparent**: Fully open-source decision making and source code. We. Hide. Nothing.
-- **Matchmaking with Integrity**: Our goal is quality relationships, not time-on-screen.
 
 # Want to Get Involved?
-Regardless of how much you think you can contribute, there's a place for you to help with EthicalMatch. Check out our [getting involved](Join%20the%20Team!/README.md) document for various ways you can contribute to the success of this project!
-
-# Contact
-Still have questions? Feel free to reach out to the team through our community [Discord](https://discord.gg/P7qfVuqMXz)! 
+Regardless of your skillset, there's a place for you to help! Check out our [getting involved](Join%20the%20Team!/README.md) document for various ways you can contribute to the success of EthicalMatch.
 
 > [!Note]
-> *This project is very young*. We still need someone to build our discord community out. In the meantime, just drop a message in the \#questions channel, and someone will help you out!
+> *This project is very young*. You'll likely run into pages that aren't finished, or don't even exist yet. This is a perfect opportunity to start contributing! Follow [[this]] guide to get started.
+# Contact
+Still have questions? Feel free to reach out to the team through our community [Discord](https://discord.gg/P7qfVuqMXz)! 
