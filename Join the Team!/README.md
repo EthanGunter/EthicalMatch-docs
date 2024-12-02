@@ -3,7 +3,7 @@ We can't start a movement alone! To make this vision a reality, we need passiona
 Below are guides for getting involved in specific areas
 
 ## Designers
-- [[Front-End Designers]] - Design the visuals of EthicalMatch
+- [[Front-End Designers]] - Design the visuals and user experience of EthicalMatch
 ## Programmers
 - [Front-End Development](Technical%20Documentation/Front%20End/README.md) - Write the code that people interact with
 - [[Back-End Development]] - Write the code that actually connects people
