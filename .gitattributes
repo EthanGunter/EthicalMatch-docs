@@ -1,0 +1,15 @@
+# Ensure all text files use LF line endings
+* text=auto
+
+# Specific overrides for known file types
+*.md text eol=lf    # Markdown files
+*.txt text eol=lf   # Plain text files
+*.json text eol=lf  # JSON files
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.ico binary
+*.tiff
