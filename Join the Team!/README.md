@@ -1,7 +1,6 @@
 # Welcome to the Team!
 We can't start a movement alone! To make this vision a reality, we need passionate people like you to push boundaries, defend our cause, and spread the word.  
 Below are guides for getting involved in specific areas
-
 ## Designers
 - [[Front-End Designers]] - Design the visuals and user experience of EthicalMatch
 ## Programmers
@@ -11,11 +10,12 @@ Below are guides for getting involved in specific areas
 ## Community Builders
 - [Community Management](Community%20Management.md) - Building and managing Discord servers or communities on forums like Reddit
 - [Marketing and Branding](Marketing%20and%20Branding.md) - Marketing, social media, or content creation
-
 ## The Business Savvy
 - [Legal](Legal.md) - Protect EthicalMatch from threatened competitors, and keep the organization up-to-date with legal mandates
 - [Management and Operations](Management%20&%20Operations.md) - Design resilient processes to keep the Ethical Commons Project at full steam!
 - [Fundraising and Financial Management](Fundraising%20and%20Financial%20Management.md) - Help raise money for the non-profit, attract donors, or manage finances  
+## New to Open Source?
+Our [step-by-step guide](Your%20first%20pull%20request.md) will walk you all the way through making your first contribution!
 
 ## Other Ways to Get Involved
 There are still plenty of ways to participate, even if nothing above suits you! Your unique perspective can help us improve EthicalMatch, regardless of your background.

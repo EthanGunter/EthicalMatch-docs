@@ -1,5 +1,5 @@
 # Your First Pull Request
-So, you want to make a contribution but don't know how. This simple step-by-step guide will take you from ground zero, all the way to making your first official contribution!
+So, you want to make a contribution but don't know how. This simple step-by-step guide will take you from ground zero, all the way to making your first official pull request!
 
 ## Step 1: Fork the Docs Repository
 For security reasons, you will be working on your own copy of the EthicalMatch documentation, and proposing your changes to the official repository via pull requests (PRs). We'll get to that later.
