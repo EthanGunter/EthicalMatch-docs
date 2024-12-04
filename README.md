@@ -20,6 +20,6 @@ If you'd like to propose a change to the docs, fill out a **[Documentation](http
 Regardless of your skillset, there's a place for you to help! Check out our [team](Join%20the%20Team!/README.md) page for various ways you can contribute to the success of EthicalMatch.
 
 > [!Note]
-> *This project is very young*. You'll likely run into pages that aren't finished, or don't even exist yet. This is a perfect opportunity to start contributing! Follow [[this]] guide to get started.
+> *This project is very young*. You'll likely run into pages that aren't finished, or don't even exist yet. This is a perfect opportunity to start contributing!
 # Contact
 Still have questions? Feel free to reach out to the team through our community [Discord](https://discord.gg/P7qfVuqMXz)! 
