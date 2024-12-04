@@ -1,5 +1,3 @@
-back to [Join the team!](Join%20the%20Team!/README.md)
-
 # How to Get Involved with Community Management
 #todo This platform can only succeed if everyone is openly invited, has an easy way to congregate, and an avenue to have conversations about what's happening. We need individuals with community building skills to get the word out and maintain an engaged, informed user base.
 - **Community Moderation**: Build and engage with our community on **Discord, GitHub, and internet forums**, fostering an inclusive, forward-thinking environment for anyone looking to get involved
