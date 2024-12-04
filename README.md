@@ -3,7 +3,7 @@
 
 ## Why Make Another Dating App?
 This isn’t just about dating — it’s about reclaiming the internet for the people.  
-In an era when a majority of our lives are conducted online, it's unacceptable for corporations with profit-first incentives to freely exploit a human right without accountability.  
+In an era when a majority of our lives are conducted online, it's unacceptable for corporations with profit-first incentives to freely exploit that human right without accountability.  
 *EthicalMatch* is a first step to show people that their digital life can be free from the corporate greed that we've resigned ourselves to expect.  
 
 ### The EthicalMatch Solution:
