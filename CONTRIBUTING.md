@@ -39,7 +39,7 @@ By structuring documentation this way, we aim to reduce cognitive load at every 
 ## Workflow for Technical Contributions
 The following is the simplified workflow for code contributions to EthicalMatch:
 1. 💡 A `Feature Request` GitHub issue is created
-	- The `#valid-feature` label is applied, giving the feature the green-light
+	- The `#Status: Accepted` label is applied, giving the feature the green-light
 1. 📝 Documentation is collaboratively drafted on a separate branch
 	- Once a consensus is made, it gets merged with the main branch
 1. 🚀The feature gets implemented in its relevant source-code repository
@@ -48,7 +48,7 @@ The following is the simplified workflow for code contributions to EthicalMatch:
 > #todo Tests are not yet part of the pipeline, but they need to be. Look at [issue #7](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/7) regarding auto-written test tooling
 ## Breaking it down
 ### 1. Feature Request GitHub Issue Creation:
-Every new feature or significant change starts with a [Feature Request GitHub Issue](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/new?assignees=&labels=feature&projects=&template=feature_request.md&title=). This provides problem information, and a proposed solution. Once the GitHub issue is labelled with \#valid-feature by one of our [authorized devs](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/8), it will get added to the [Feature Development Project](https://GitHub.com/orgs/Ethical-Commons-Project/projects/2), and be opened for discussion and design.
+Every new feature or significant change starts with a [Feature Request GitHub Issue](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/new?assignees=&labels=feature&projects=&template=feature_request.md&title=). This provides problem information, and a proposed solution. Once the GitHub issue is labelled with **\#Status: Accepted** by one of our [authorized devs](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/8), it will get added to the [Feature Development Project](https://GitHub.com/orgs/Ethical-Commons-Project/projects/2), and be opened for discussion and design.
 ### 2. Draft Documentation Collaboration:
 Once a feature is accepted, it will be put in the [feature draft list](https://GitHub.com/orgs/Ethical-Commons-Project/projects/2/views/5?filterQuery=status%3A%22drafting%22). Once in this list, a branch named "Draft-Feature-#X" and a PR for that branch will automatically be created. The comments on the pull request will provide a place for design discussion, and committing to that branch will enable iterative collaboration. Make sure to follow the [Documentation Guidelines](Documentation%20Guidelines.md).  
 The PR will be accepted once X% of collaborators vote in favor of its completion, and it is approved by an [authorized contributor](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/8)

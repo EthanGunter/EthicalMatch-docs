@@ -45,12 +45,8 @@ Nothing is ever complete the first time around, and this is a collaborative proj
 > If you are using our [[Obsidian Setup]], linting will take care of most of the nitpicky things
 
 # TL;DR:
-- Use the [[documentation template]] for a quick start (and to adhere to best practices) ( #todo create a documentation template )
-	- Start the document with a one-sentence-overview. i.e. "This document {insert purpose here}"
-	- Add a backlink to the parent document (if any)
-	- Wrap up with a TL;DR: section for busy-bees and speed readers
 - Use hyperlinks as a means of expanding on a concept
-	- If you're not ready to expand on something yet, use a [wikilink or write a \#todo note](#dont-be-a-perfectionist)
+	- If you're not ready to expand on something yet, use a [wikilink or write a #todo note](#dont-be-a-perfectionist)
 - Use visuals to break up walls of text, and to make concepts easier to digest
 	- Use callout blocks to draw attention to something important: `> [!{header text, like "Tip"}]`
 	- Use [mermaid](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) code blocks (\`\`\`mermaid … \`\`\`) for charts where applicable, and images as a last resort

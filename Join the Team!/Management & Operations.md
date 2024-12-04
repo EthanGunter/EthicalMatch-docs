@@ -1,5 +1,3 @@
-back to [Join the team!](Join%20the%20Team!/README.md)
-
 # How to Get Involved with Management and Operations
 #todo Since EthicalMatch is a non-profit open-source project, we're more interested in setting up systems that allow people to participate at their own pace, while still maintaining an effective forward momentum. Your role on the management and operations team is to devise and setup systems that enable this line of thinking, without active person-to-person management. It's a new way of thinking, but our structure needs to
 - Provide a clear set of things to be done, in a prioritized manner
