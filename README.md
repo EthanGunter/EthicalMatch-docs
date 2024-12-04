@@ -12,6 +12,10 @@ This isn’t just about dating—it’s about reclaiming the digital space for t
 - **Privacy First**: Each piece of your data is *opt-in*, and clearly explained.
 - **Open-Source & Transparent**: Fully open-source decision making and source code. We. Hide. Nothing.
 
+# Have a Suggestion?
+If you have a feature request, fill out a **[Feature Request](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/new?assignees=&labels=feature&projects=&template=feature_request.md&title=)** GitHub Issue.  
+If you'd like to propose a change to the docs, fill out a **[Documentation](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/new?assignees=&labels=enhancement&projects=&template=documentation-change.md&title=)** GitHub Issue!
+
 # Want to Get Involved?
 Regardless of your skillset, there's a place for you to help! Check out our [team](Join%20the%20Team!/README.md) page for various ways you can contribute to the success of EthicalMatch.
 
