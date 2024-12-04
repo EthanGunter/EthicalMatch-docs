@@ -4,7 +4,7 @@ So, you want to make a contribution but don't know how. This simple step-by-step
 ## Step 1: Fork the Docs Repository
 For security reasons, you will be working on your own copy of the EthicalMatch documentation, and proposing your changes to the official repository via pull requests (PRs). We'll get to that later.
 1. Simply click the **Fork** button as shown below, and a copy will get added to your GitHub account
-![GitHub.com fork button]({attachments}/GitHub%20Fork%20Button.png)
+![GitHub.com fork button](../{attachments}/GitHub%20Fork%20Button.png)
 > [!Note]
 > You will need to have a GitHub account for this to work. Clicking **Fork** will prompt you to create an account if you don't already have one
 ## Step 2: Pull the Docs to Your Computer
@@ -20,7 +20,7 @@ The documentation should now be downloaded to your local machine at the file pat
 
 > [!Tip]
 > If you don't see your fork in the GitHub.com tab, you can clone a repo using a URL instead. You can find the link to clone your repository on github.com below: 
-> ![GitHub.com cloning options]({attachments}/GitHub%20HTTPS%20clone%20URL.png)
+> ![GitHub.com cloning options](../{attachments}/GitHub%20HTTPS%20clone%20URL.png)
 > You can also "Open with GitHub Desktop" as seen at the bottom of this image
 
 ## Optional: Install Obsidian for Documentation Editing
@@ -36,7 +36,7 @@ Think of branches like workspaces. Each branch allows you to work on changes in 
 1. You can either select an existing branch, or you can create a new one by
     - clicking **New Branch**, giving it a name, and clicking **Create branch**
     - If your work is related to an issue, name your branch to reflect it (e.g., `#17-pull-request-guide`)
-![GitHub Desktop "New branch" button](GH%20Desktop%20New%20Branch.png)
+![GitHub Desktop "New branch" button](../{attachments}/GH%20Desktop%20New%20Branch.png)
 
 > [!Warning]  
 > If you're looking to address a GitHub issue, someone else might be working on it already. Make sure to check the comments of the issue and the **Assignees** section on the right sidebar so your time isn't wasted!  
@@ -62,7 +62,7 @@ Since it takes time to make changes, it's possible that the official repo has ha
 1. Click **Create a merge commit**  
 	- If the button is disabled saying that your branch is up to date, no further action is needed!
 	- If you get a message saying "Cannot merge while there are changes on your branch", just click **Stash Changes**. These can easily be recovered by clicking **stashed changes** at the bottom of the **changes** tab on the left
-![Selecting a branch to update from|320]({attachments}/GH%20Desktop%20Sync%20upstream.png) ![Creating a merge commit|350](GH%20Desktop%20Create%20Merge%20Commit.png)
+![Selecting a branch to update from|320](../{attachments}/GH%20Desktop%20Sync%20upstream.png) ![Creating a merge commit|350](../{attachments}/GH%20Desktop%20Create%20Merge%20Commit.png)
 > [!Note]
 > Creating a merge commit will add a new commit for the merge, as well as a commit for every change that has happened on the upstream branch. Don't be alarmed when it says you've got 12 commits to push!
 ## Step 6: Submit a Pull Request
