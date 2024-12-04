@@ -1,17 +1,6 @@
 ### Contents
 - [The Contribution Process Overview](#the-contribution-process-overview)
-	- [Change Starts with Documentation](#change-starts-with-documentation)
-	- [Use GitHub Issues to Propose Changes](#use-github-issues-to-propose-changes)
-	- [Pull-Request Reviews and Approvals](#pull-request-reviews-and-approvals)
 - [Technical Documentation Process](#technical-documentation-process)
-	- [Documentation First?!](#documentation-first)
-	- [Workflow for Technical Contributions](#workflow-for-technical-contributions)
-	- [Breaking it down](#breaking-it-down)
-		- [1. Feature Request GitHub Issue Creation:](#1-feature-request-github-issue-creation)
-		- [2. Draft Documentation Collaboration:](#2-draft-documentation-collaboration)
-		- [Development Status Tracking](#development-status-tracking)
-		- [3. Code Implementation](#3-code-implementation)
-		- [4. Wrapping up and Status Updates](#4-wrapping-up-and-status-updates)
 - [First time contributing to open source?](#first-time-contributing-to-open-source)
 
 ---
