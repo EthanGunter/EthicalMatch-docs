@@ -3,7 +3,7 @@ This document lays out the stages of *planned* development for EthicalMatch. It 
 If you're looking for something to work on, features higher up in the list are less likely to be blocked, and available to begin development.
 
 <details>
-<summary>Phase 1: First build</summary>  
+<summary><h1>Phase 1: First build</h1></summary>  
 
 *This phase will focus on getting a functioning web app interacting with a server*
 </details>
