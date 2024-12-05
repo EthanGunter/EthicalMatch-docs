@@ -9,13 +9,13 @@ If you're looking for something to work on, features higher up in the list are l
 </details>
 
 <details>
-<summary>Phase 2: A functional dating app</summary>  
+<summary><h1>Phase 2: A functional dating app</h1></summary>  
 
 *This phase will focus on implementing all the necessary features for EthicalMatch to provide a matching service for the public*
 </details>
 
 <details>
-<summary>Phase 3: A superior dating app</summary>  
+<summary><h1>Phase 3: A superior dating app</h1></summary>  
 
 *This phase will focus on expanding what we know dating apps to be. This is where all of our unique and non-standard features will finally help shape the market*
 </details>

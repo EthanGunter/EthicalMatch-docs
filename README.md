@@ -1,5 +1,5 @@
 <details>
-<summary> # What is EthicalMatch?</summary>  
+<summary><h1>What is EthicalMatch?</h1></summary>  
 
 **EthicalMatch** is an experimental open-source dating platform that takes advantage of it's not-for-profit status to foster meaningful relationships without financial exploitation. Free from profit-driven requirements, **EthicalMatch** can steer clear of predatory monetization practices and focus instead on **privacy**, **transparency**, and ***ethical* matchmaking**.
 
