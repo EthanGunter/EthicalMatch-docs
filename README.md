@@ -1,4 +1,7 @@
+<details>
+<summary>
 # What is EthicalMatch?
+</summary>
 **EthicalMatch** is an experimental open-source dating platform that takes advantage of it's not-for-profit status to foster meaningful relationships without financial exploitation. Free from profit-driven requirements, **EthicalMatch** can steer clear of predatory monetization practices and focus instead on **privacy**, **transparency**, and ***ethical* matchmaking**.
 
 ## Why Make Another Dating App?
@@ -11,7 +14,10 @@ This isn’t just about dating—it’s about reclaiming the digital space for t
 - **Matchmaking with Integrity**: Our goal is quality relationships, not time-on-screen.
 - **Privacy First**: Each piece of your data is *opt-in*, and clearly explained.
 - **Open-Source & Transparent**: Fully open-source decision making and source code. We. Hide. Nothing.
+</details>
 
+# Status
+Our [roadmap](ROADMAP.md) will show you our currently planned features, and what's coming next.
 # Have a Suggestion?
 If you have a feature request, fill out a **[Feature Request](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/new?assignees=&labels=feature&projects=&template=feature_request.md&title=)** GitHub Issue.  
 If you'd like to propose a change to the docs, fill out a **[Documentation](https://GitHub.com/Ethical-Commons-Project/EthicalMatch-docs/issues/new?assignees=&labels=enhancement&projects=&template=documentation-change.md&title=)** GitHub Issue!
