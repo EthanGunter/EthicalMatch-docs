@@ -1,13 +1,7 @@
 ### Contents
-1. [Process Overview](#The%20Contribution%20Process%20Overview)
-	- [Why we work documentation-first](#Change%20Starts%20with%20Documentation)
-	- [Proposing changes with GitHub Issues](#Use%20GitHub%20Issues%20to%20Propose%20Changes)
-	- [Getting your changes approved](#Pull-Request%20Reviews%20and%20Approvals)
-1. [Technical Documentation Process](#Technical%20Documentation%20Process)
-	- [How documentation helps developers](#Documentation%20First?!)
-	- [Technical contribution steps](#Workflow%20for%20Technical%20Contributions)
-	- [The steps, in more detail](#Breaking%20it%20down)
-1. First Time Contributing #todo
+- [The Contribution Process Overview](#the-contribution-process-overview)
+- [Technical Documentation Process](#technical-documentation-process)
+- [First time contributing to open source?](#first-time-contributing-to-open-source)
 
 ---
 # The Contribution Process Overview
@@ -86,3 +80,6 @@ We're looking for 2 things:
 
 > [!Tip]
 > When you make this final documentation pull request, link it to the pull request for your code from step 4 to help it get accepted faster
+
+# First time contributing to open source?
+We have a [first pull-request guide](Join%20the%20Team!/Your%20first%20pull%20request.md) to get you started!

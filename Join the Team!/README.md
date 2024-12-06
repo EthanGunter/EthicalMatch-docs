@@ -22,6 +22,6 @@ There are still plenty of ways to participate, even if nothing above suits you! 
 #### Join the Discord
 We're building this platform for you! If you have ideas or feedback, hop in to our [discord server](https://discord.gg/P7qfVuqMXz) for various ways to engage. You might be the one to start a whole new branch of the project!
 #### Spread the Word
-This project grows stronger as more people know about it. Share **EthicalMatch** with your community, friends, or anyone frustrated with the current state of online dating!
+This project grows stronger as more people know about it. Share *EthicalMatch* with your community, friends, or anyone frustrated with the current state of online dating!
 #### Donate
 Since this is a not-for-profit project, we rely on donations to keep the platform running. All contributions go towards hosting, security, and keeping the team fed. ( #todo add a donation link )
