@@ -1,11 +1,11 @@
-# ROADMAP
-This document lays out the stages of *planned* development for EthicalMatch. It should give you a good idea of where the project is at, where it's going, and what features are being prioritized.  
+# EthicalMatch Roadmap
+This document lays out the stages of *planned* development for **EthicalMatch**. It should give you a good idea of where the project is at, where it's going, and what features are being prioritized.  
 If you're looking for something to work on, features higher up in the list are less likely to be blocked, and available to begin development.
 
-# Phase 1: In the Beginning
+# Phase 1: In the Beginning ![](https://progress-bar.xyz/0)
 *This phase will produce a minimally viable web app, and a server for it to interact with. This will be the programmatic foundation of EthicalMatch*
 <details>
-<summary><h2>V0.1</h2></summary>
+<summary><h2>V0.1 <embed src="https://progress-bar.xyz/0"/></h2></summary>
 
 ### Front-End
 - Downloadable PWA 
@@ -23,7 +23,7 @@ If you're looking for something to work on, features higher up in the list are l
 - Host a public server for *users* to interact with
 </details>
 
-# Phase 2: Going Public
+# Phase 2: Going Public ![](https://progress-bar.xyz/0)
 *This phase will focus on implementing all the necessary features for EthicalMatch to provide a fully functional match making service for the public. This is where non-development roles will start to play a bigger role as our publicity and responsibility to the public grow*
 
 <details>
@@ -36,7 +36,7 @@ If you're looking for something to work on, features higher up in the list are l
 
 </details>
 
-# Phase 3: Changing the Market
+# Phase 3: Changing the Market ![](https://progress-bar.xyz/0)
 *This phase will focus on expanding what we know dating apps to be. This is where all of our unique and non-standard features will finally help shape the market*
 ### v2+
 - Date planning tools
