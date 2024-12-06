@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 <!-- please label this issue with `Src: front-end` or `Src: back-end` as appropriate -->
+<!-- If front-end design work is needed, add the `UI/UX design` label as well -->
+
 ### **Describe the issue you would like solved**
 A clear and concise description of what the problem is.
 
