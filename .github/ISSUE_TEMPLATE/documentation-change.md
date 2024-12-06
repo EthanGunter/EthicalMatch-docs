@@ -2,7 +2,7 @@
 name: Documentation Change
 about: Suggest a tweak to make the documentation more accessible
 title: "[DOCS]"
-labels: discussion, enhancement
+labels: 'Status: Discussion, Type: docs-change'
 assignees: ''
 
 ---

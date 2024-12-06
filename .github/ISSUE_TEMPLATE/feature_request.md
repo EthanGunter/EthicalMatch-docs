@@ -2,11 +2,12 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE] "
-labels: discussion, feature
+labels: 'Status: Discussion, Type: feature-request'
 assignees: ''
 
 ---
 
+<!-- please label this issue with `Src: front-end` or `Src: back-end` as appropriate -->
 ### **Describe the issue you would like solved**
 A clear and concise description of what the problem is.
 
