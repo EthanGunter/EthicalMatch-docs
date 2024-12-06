@@ -15,6 +15,7 @@ If you're looking for something to work on, features higher up in the list are l
 - Minimal REST API for managing user accounts
 - Host a temporary server for developers to interact with
 </details>
+
 ## V0.2 ![](https://progress-bar.xyz/0)
 <details>
 <summary>see contents…</summary>
