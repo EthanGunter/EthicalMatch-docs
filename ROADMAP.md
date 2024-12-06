@@ -9,10 +9,10 @@ If you're looking for something to work on, features higher up in the list are l
 <summary>see contents...</summary>
 
 ### Front-End
-- Downloadable PWA 
+- Downloadable PWA [#13](https://github.com/Ethical-Commons-Project/EthicalMatch/issues/13)
 - UI that allows for basic CRUD operations with user accounts
 ### Back-End
-- Minimal REST API for managing user accounts
+- Minimal REST API for managing user accounts [#22](https://github.com/Ethical-Commons-Project/EthicalMatch/issues/22)
 - Host a temporary server for developers to interact with
 </details>
 
@@ -20,7 +20,11 @@ If you're looking for something to work on, features higher up in the list are l
 <details>
 <summary>see contents…</summary>
 
+### Front-End
+- Login/Signup view
+
 ### Back-End
+- User authentication
 - Setup CI/CD pipeline for server updates
 - Host a public server for *users* to interact with
 </details>
