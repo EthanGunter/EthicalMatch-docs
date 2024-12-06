@@ -4,8 +4,9 @@ If you're looking for something to work on, features higher up in the list are l
 
 # Phase 1: In the Beginning ![](https://progress-bar.xyz/0)
 *This phase will produce a minimally viable web app, and a server for it to interact with. This will be the programmatic foundation of EthicalMatch*
+## V0.1 ![](https://progress-bar.xyz/0)
 <details>
-<summary><h2>V0.1 <embed src="https://progress-bar.xyz/0"/></h2></summary>
+<summary>see contents...</summary>
 
 ### Front-End
 - Downloadable PWA 
@@ -14,9 +15,9 @@ If you're looking for something to work on, features higher up in the list are l
 - Minimal REST API for managing user accounts
 - Host a temporary server for developers to interact with
 </details>
-
+## V0.2 ![](https://progress-bar.xyz/0)
 <details>
-<summary><h2>V0.2</h2></summary>
+<summary>see contents…</summary>
 
 ### Back-End
 - Setup CI/CD pipeline for server updates
@@ -25,9 +26,10 @@ If you're looking for something to work on, features higher up in the list are l
 
 # Phase 2: Going Public ![](https://progress-bar.xyz/0)
 *This phase will focus on implementing all the necessary features for EthicalMatch to provide a fully functional match making service for the public. This is where non-development roles will start to play a bigger role as our publicity and responsibility to the public grow*
-
+## V1.1 ![](https://progress-bar.xyz/0)
 <details>
-<summary><h2>V1.1</h2></summary>
+<summary>see contents...</summary>
+
 
 ### Marketing
 - Develop a landing site for users interesting in *using* the app, but not contributing
