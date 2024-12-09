@@ -5,7 +5,7 @@
   "newFileLocation": "current",
   "newFileFolderPath": "~new",
   "promptDelete": false,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
